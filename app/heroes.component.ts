@@ -89,3 +89,11 @@ export class HeroesComponent implements OnInit {
     this.router.navigate(['/detail', this.selectedHero.id]);
   }
 }
+
+
+
+/**
+ * 
+ * This is a component that is the main component for heroes app after root component.
+ * 
+ */

@@ -20,3 +20,9 @@ export class HeroService {
       .then(heroes => heroes.find(hero => hero.id === id));
   }
 }
+
+/**
+ * 
+ * This is service that will be responsible for data.
+ * 
+ */

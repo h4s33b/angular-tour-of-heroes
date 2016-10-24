@@ -14,3 +14,10 @@ const routes: Routes = [
   exports: [ RouterModule ]
 })
 export class AppRoutingModule {}
+
+
+/**
+ * This is a routing module we have created for our routing.
+ * In routes constant we have defined our paths and components.
+ * The first path is a default path that is like we have otherwise in angular 1 router. We are saying that if path='' then redirect to dashboard screen.
+ */

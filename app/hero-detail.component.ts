@@ -42,3 +42,10 @@ export class HeroDetailComponent implements OnInit {
     this.location.back();
   }
 }
+
+/**
+ * 
+ * This is a HeroDetailComponent Component.
+ * Here we are getting route params in this.route.params.
+ * 
+ */
